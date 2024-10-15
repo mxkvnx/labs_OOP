@@ -1,14 +1,3 @@
-/*
- * @(#)Ford.java 1.0 2024/10/10
- *
- * Copyright (c) 2024 [Vlad Neryanov], Inc.
- * All Rights Reserved.
- *
- * This software is the confidential and proprietary information of [Vlad Neryanov].
- * You shall not disclose such Confidential Information and shall use it only in
- * accordance with the terms of the license agreement you entered into.
- */
-
 package ad231.neryanov.carshop.cars;
 
 /**
